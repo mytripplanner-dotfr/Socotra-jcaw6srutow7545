@@ -1,0 +1,112 @@
+{
+  "pays": "Yémen (Archipel de Socotra)",
+  "drapeau": "🇾🇪",
+  "symbole": "🐉",
+  "titre": "L'Archipel des Dragons: Une Immersion Unique à Socotra",
+  "budget_total": "2300€",
+  "duree": "1 jours",
+  "temps_vol": "Environ 15h à 20h avec escale depuis Paris, france",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée sur l'île mystérieuse",
+      "legende": "Après un long voyage, vous atterrissez sur l'île de Socotra, un joyau de biodiversité. La journée sera dédiée à une installation en douceur et à une première prise de contact avec ce paysage unique, loin de l'agitation du monde. Laissez-vous imprégner par l'atmosphère sereine et la beauté brute de l'île.",
+      "lieu": "Hadibo et environs",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Hadibo</strong>: Après les formalités, votre guide local vous accueillera pour un transfert vers votre hébergement. C'est le moment de sentir l'air unique de Socotra.",
+        "🛏️ <strong>Installation à l'éco-lodge</strong>: Prenez possession de votre chambre dans un éco-lodge simple mais confortable, offrant une immersion authentique dans le mode de vie local. Détendez-vous après le voyage et préparez-vous à l'aventure.",
+        "🚶‍♂️ <strong>Balade légère sur la plage de Delisha</strong>: Profitez d'une courte promenade sur le sable blanc de Delisha, à proximité de Hadibo, pour admirer le coucher de soleil et les eaux turquoise. C'est une introduction parfaite à la tranquillité de l'île."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "L'accès à Socotra est limité et nécessite des autorisations spéciales. Les vols sont peu fréquents et souvent sujets à modification."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Prévoyez des vêtements légers mais couvrants, ainsi qu'un chapeau et de la crème solaire. L'eau potable est précieuse, pensez à votre gourde."
+        },
+        {
+          "symbole": "🌍",
+          "titre": "Environnement",
+          "texte": "Socotra est un site du patrimoine mondial de l'UNESCO, respectez scrupuleusement l'environnement et la faune locale."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "2000€/pers (Vol A/R Paris-Socotra via escales, classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "150€/pers (Transferts aéroport et 4x4 avec chauffeur pour la journée)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "40€/pers (Repas locaux simples pour 1 jour)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "80€/pers (1 nuit en éco-lodge/guesthouse 3 étoiles équivalent)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "30€/pers (Permis d'entrée et guide local)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois d'octobre à avril, évitant la saison des moussons.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La population de Socotra est principalement d'origine arabe et parle le soqotri, une langue sémitique unique. L'hospitalité est une valeur forte.",
+      "symbole": "🤝"
+    },
+    {
+      "titre": "Socotra fait partie du Yémen, mais jouit d'une autonomie de facto. L'île est considérée comme relativement sûre, mais il est impératif de voyager avec un guide local.",
+      "symbole": "🗺️"
+    },
+    {
+      "titre": "L'île est surnommée les \"Galapagos de l'océan Indien\" en raison de son taux d'endémisme exceptionnel, notamment l'emblématique arbre au sang de dragon.",
+      "symbole": "🐉"
+    },
+    {
+      "titre": "L'infrastructure touristique est très limitée; attendez-vous à des hébergements simples (éco-lodges, campements) et une connexion internet rare.",
+      "symbole": "📶"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations générales sur le Yémen et conseils aux voyageurs",
+      "titre": "France Diplomatie - Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/pays-zones/yemen/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Informations sur les vols vers la région (compagnies aériennes majeures)",
+      "titre": "Emirates Airlines",
+      "url": "https://www.emirates.com/fr/french/",
+      "symbole": "✈️"
+    },
+    {
+      "legende": "Prévisions météo pour la région",
+      "titre": "AccuWeather",
+      "url": "https://www.accuweather.com/fr/ye/hadibo/321855/weather-forecast/321855",
+      "symbole": "🌤️"
+    }
+  ]
+}
